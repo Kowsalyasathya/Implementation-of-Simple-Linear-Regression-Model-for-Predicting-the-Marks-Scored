@@ -70,9 +70,7 @@ print('MAE = ',mae)
 rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
-
 ## Output:
-
 ![m1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/03ba3bed-5253-43af-b766-8af0e6862129)
 ![m2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/d761c825-2ae4-4ea0-a102-d46e0ebc9df2)
 ![m3](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/edaa8ac4-ef1c-4b4a-9b32-638085b7c822)
