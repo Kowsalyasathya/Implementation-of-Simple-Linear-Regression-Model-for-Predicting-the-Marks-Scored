@@ -22,11 +22,11 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
+
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: KOWSALYA M
 RegisterNumber:  212222230069
-*/
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -70,12 +70,19 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse)
 ```
 ## Output:
+
 ![m1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/03ba3bed-5253-43af-b766-8af0e6862129)
+
 ![m2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/d761c825-2ae4-4ea0-a102-d46e0ebc9df2)
+
 ![m3](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/edaa8ac4-ef1c-4b4a-9b32-638085b7c822)
+
 ![m4](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/59fd464f-6f9e-416b-875a-76671f7f6bcf)
+
 ![m5](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/7c328dfe-e3a6-4912-b3d3-a540bd705e6f)
+
 ![m6](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/73b51c7d-155a-4c1c-b28c-aa92f0284c00)
 
 ## Result:
+
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
