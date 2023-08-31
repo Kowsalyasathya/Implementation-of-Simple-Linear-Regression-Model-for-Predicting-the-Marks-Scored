@@ -9,10 +9,15 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1.Import the standard Libraries.
+
 2.Set variables for assigning dataset values.
+
 3.Import linear regression from sklearn.
+
 4.Assign the points for representing in the graph.
+
 5.Predict the regression for marks by using the representation of the graph.
+
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
@@ -67,8 +72,13 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
 
+![m1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/03ba3bed-5253-43af-b766-8af0e6862129)
+![m2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/d761c825-2ae4-4ea0-a102-d46e0ebc9df2)
+![m3](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/edaa8ac4-ef1c-4b4a-9b32-638085b7c822)
+![m4](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/59fd464f-6f9e-416b-875a-76671f7f6bcf)
+![m5](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/7c328dfe-e3a6-4912-b3d3-a540bd705e6f)
+![m6](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/73b51c7d-155a-4c1c-b28c-aa92f0284c00)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
