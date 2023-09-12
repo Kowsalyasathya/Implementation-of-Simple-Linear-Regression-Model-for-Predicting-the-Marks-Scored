@@ -21,7 +21,8 @@ To write a program to predict the marks scored by a student using the simple lin
 6.Compare the graphs and hence we obtained the linear regression for the given datas.
 
 ## Program:
-```Program to implement the simple linear regression model for predicting the marks scored.
+```
+Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: KOWSALYA M
 RegisterNumber:  212222230069
 
