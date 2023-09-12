@@ -67,23 +67,23 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse
 ```
 ## Output:
-df.head():
+### df.head():
 ![EX 02 (1)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/9c467cb5-90a8-49fc-bdb9-92d32d08ee5a)
-df.tail():
+### df.tail():
 ![EX 02 (2)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/04e557ae-60ff-438f-bd49-f6429072a357)
-Array values of X:
+### Array values of X:
 ![EX 02 (3)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/48633c27-fd92-4e96-acd0-4edd51083c76)
-Array values of Y:
+### Array values of Y:
 ![EX 02 (4)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/5980e9b9-4029-48b3-8bed-4227d5c23434)
-Values of prediction:
+### Values of prediction:
 ![EX 02 (5)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/51d2232c-616a-4f3f-a30e-8e16deaa077f)
-Array values of Y test:
+### Array values of Y test:
 ![EX 02 (6)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/827370af-56b4-4e0f-b97a-d31be2112f5a)
-Training set graph:
+### Training set graph:
 ![EX 02 (7)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/54c869bd-b9bc-4e42-ab79-55a4f2137dc4)
-Testing set graph:
+### Testing set graph:
 ![EX 02 (8)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/1a4cdbfa-99e8-449e-99e5-2b6aa337404c)
-Values of MSE,MAE,RMSE:
+### Values of MSE,MAE,RMSE:
 ![EX 02 (9)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/61e8a540-1c13-459e-b909-c1219b95453d)
 
 ## Result:
