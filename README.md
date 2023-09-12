@@ -67,7 +67,7 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse
 ```
 ## Output:
-### df.head():
+## df.head():
 ![EX 02 (1)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/9c467cb5-90a8-49fc-bdb9-92d32d08ee5a)
 ### df.tail():
 ![EX 02 (2)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/04e557ae-60ff-438f-bd49-f6429072a357)
