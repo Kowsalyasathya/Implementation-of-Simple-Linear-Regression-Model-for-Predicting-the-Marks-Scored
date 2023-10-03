@@ -25,7 +25,8 @@ To write a program to predict the marks scored by a student using the simple lin
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: KOWSALYA M
 RegisterNumber:  212222230069
-
+```
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -68,24 +69,27 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse
 ```
 ## Output:
-## df.head():
-![EX 02 (1)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/9c467cb5-90a8-49fc-bdb9-92d32d08ee5a)
-### df.tail():
-![EX 02 (2)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/04e557ae-60ff-438f-bd49-f6429072a357)
+## df.head() and df.tail():
+![3 1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/5214d5e0-301d-4323-bea8-9fc23f6346d7)
+
 ### Array values of X:
-![EX 02 (3)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/48633c27-fd92-4e96-acd0-4edd51083c76)
+![3 2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/3553c266-e0cf-4a56-bdac-d75a1f40abdd)
+
 ### Array values of Y:
-![EX 02 (4)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/5980e9b9-4029-48b3-8bed-4227d5c23434)
+![3 3](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/031e1e6d-2a02-45cf-a974-d0fe5f648121)
+
 ### Values of prediction:
-![EX 02 (5)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/51d2232c-616a-4f3f-a30e-8e16deaa077f)
-### Array values of Y test:
-![EX 02 (6)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/827370af-56b4-4e0f-b97a-d31be2112f5a)
+![3 4](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/e56b869b-b006-48c3-9494-3c549f37382e)
 ### Training set graph:
-![EX 02 (7)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/54c869bd-b9bc-4e42-ab79-55a4f2137dc4)
+![3 5](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/8e98a514-1e9c-414e-8c92-42dd8eb1f6fb)
+
 ### Testing set graph:
-![EX 02 (8)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/1a4cdbfa-99e8-449e-99e5-2b6aa337404c)
+![3 7](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/428d8e3c-d948-4798-99db-85192a9b3f89)
+
 ### Values of MSE,MAE,RMSE:
-![EX 02 (9)](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/61e8a540-1c13-459e-b909-c1219b95453d)
+![3 8](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/6bff2ece-e83b-4137-8466-720d0542685f)
+
+
 
 ## Result:
 
