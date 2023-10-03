@@ -1,4 +1,4 @@
-# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+![image](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/2dbd9502-57e5-4dba-a628-9bd8fd465685)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -69,22 +69,20 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse
 ```
 ## Output:
-## df.head() and df.tail():
+## df.head() "
 ![3 1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/5214d5e0-301d-4323-bea8-9fc23f6346d7)
-
-### Array values of X:
+### df.tail() :
 ![3 2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/3553c266-e0cf-4a56-bdac-d75a1f40abdd)
-
-### Array values of Y:
+### Array values of X:
 ![3 3](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/031e1e6d-2a02-45cf-a974-d0fe5f648121)
-
-### Values of prediction:
+### Array values of Y:
 ![3 4](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/e56b869b-b006-48c3-9494-3c549f37382e)
-### Training set graph:
+### Values of prediction:
 ![3 5](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/8e98a514-1e9c-414e-8c92-42dd8eb1f6fb)
-
 ### Testing set graph:
 ![3 7](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/428d8e3c-d948-4798-99db-85192a9b3f89)
+### Training set graph:
+![3 6](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/a520ed70-1f26-4aed-a32f-6e1a12c626c9)
 
 ### Values of MSE,MAE,RMSE:
 ![3 8](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/6bff2ece-e83b-4137-8466-720d0542685f)
