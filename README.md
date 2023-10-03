@@ -1,4 +1,4 @@
-![image](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/2dbd9502-57e5-4dba-a628-9bd8fd465685)# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -69,7 +69,7 @@ rmse=np.sqrt(mse)
 print('RMSE = ',rmse
 ```
 ## Output:
-## df.head() "
+## df.head() :
 ![3 1](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/5214d5e0-301d-4323-bea8-9fc23f6346d7)
 ### df.tail() :
 ![3 2](https://github.com/Kowsalyasathya/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/118671457/3553c266-e0cf-4a56-bdac-d75a1f40abdd)
